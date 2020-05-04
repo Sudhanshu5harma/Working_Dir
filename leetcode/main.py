@@ -33,3 +33,27 @@ for i in S:
     K +=k
 print(K)
 '''''
+
+'''
+ransomNote = "fffbfg"
+magazine = "effjfggbffjdgbjjhhdegh"
+ran = Counter(ransomNote)
+mag = Counter(magazine)
+for c in ran:
+    print(c)
+    print(mag[c])
+    if c not in mag or mag[c]<ran[c]:
+
+        print (False)
+print(True)
+'''
+def flip(c):
+    return '1' if (c == '0') else '0'
+n = 1
+c = bin(n).replace('0b','')
+c = list(c)
+b = []
+for i in c:
+     b.append(flip(i))
+d = "".join(b)
+print(int(d,2))
