@@ -32,9 +32,7 @@ for i in S:
     k =  sum(i in item for item in J)
     K +=k
 print(K)
-'''''
 
-'''
 ransomNote = "fffbfg"
 magazine = "effjfggbffjdgbjjhhdegh"
 ran = Counter(ransomNote)
@@ -46,7 +44,7 @@ for c in ran:
 
         print (False)
 print(True)
-'''
+
 def flip(c):
     return '1' if (c == '0') else '0'
 n = 1
@@ -57,3 +55,62 @@ for i in c:
      b.append(flip(i))
 d = "".join(b)
 print(int(d,2))
+
+
+s = ""
+res =[]
+if s=='':
+    print(-1)
+else
+for n,i in enumerate(s):
+    if s.count(i)==1:
+        res.append(n)
+        break
+    else:
+        res.append(-1)
+print(max(res))
+
+
+from collections import Counter
+c = [2,2,1,1,1,2,2]
+
+s = Counter(c).most_common()
+return s[0][0]
+
+
+arr1 = [10, 5, 2, 23, 19]
+arr2 = [19, 5, 3]
+res = []
+for i in arr2:
+    if (i in arr1):
+        res.append(1)
+if len(res)==len(arr2):
+    print("Yes")
+else:
+    print("No")
+'''
+
+
+n = 5
+k = 3
+rq,cq = 4,3
+chess = [[0 for i in range(n)] for j in range(n)]
+#chess[rq-1][cq-1]=2
+#hori
+for i in range(n):
+    chess[rq-1][i]=1
+for j in range(n):
+    chess[j][cq-1]=1
+#dia
+for k in range(n):
+    chess[rq-1-k][cq-1-k]=1
+
+for p in range(n):
+    #while((rq-1+p)<=n and (cq-1+p)<=n ):
+     chess[rq-1+p][cq-1+p]=1
+
+
+
+chess[rq-1][cq-1]=2
+for i in chess:
+    print(i)
