@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Documents and Settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UdemyLearning1" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.image_scraper">
@@ -95,6 +95,8 @@
       <workItem from="1588279662418" duration="2147000" />
       <workItem from="1588282210638" duration="726000" />
       <workItem from="1588327330953" duration="924000" />
+      <workItem from="1589769399732" duration="2777000" />
+      <workItem from="1589795695351" duration="21000" />
     </task>
     <servers />
   </component>
@@ -118,10 +120,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1588282677893" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1588328209200">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1589795714613">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588328209200" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589795714613" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1588282941890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -142,10 +144,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588282652483" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1588327337092">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589795696939">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588327337092" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1589795696939" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/webscrapper$image_scraper.coverage" NAME="image_scraper Coverage Results" MODIFIED="1588282717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

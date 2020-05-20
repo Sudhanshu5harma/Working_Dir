@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aR7aYY6gTjVeO7lTsusEIaegnB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -104,6 +109,11 @@
       <workItem from="1588250236683" duration="2327000" />
       <workItem from="1588258267720" duration="1625000" />
       <workItem from="1588271375976" duration="1279000" />
+      <workItem from="1589795717499" duration="1158000" />
+      <workItem from="1589880994275" duration="109000" />
+      <workItem from="1589887705925" duration="107000" />
+      <workItem from="1589896395746" duration="32000" />
+      <workItem from="1589929825843" duration="16000" />
     </task>
     <servers />
   </component>
@@ -143,10 +153,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1588250185914" />
-    <state x="849" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1588271377901">
+    <state x="849" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589896396938">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="849" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588271377901" />
+    <state x="849" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1589896396938" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1586781918159">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
