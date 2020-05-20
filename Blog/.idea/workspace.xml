@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Downloads/CodeWizard-master/CodeWizard-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
   </component>
   <component name="RunManager" selected="Python.Controller">
     <configuration name="Home.html" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/Blog/Views/Templates/home.html" useBuiltInWebServerPort="true">
@@ -71,8 +71,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.MainLayout.html" />
         <item itemvalue="Python.Controller" />
+        <item itemvalue="JavaScript Debug.MainLayout.html" />
         <item itemvalue="JavaScript Debug.Login.html" />
         <item itemvalue="JavaScript Debug.Home.html" />
       </list>
@@ -91,6 +91,7 @@
       <workItem from="1589932411112" duration="1244000" />
       <workItem from="1589933795596" duration="2273000" />
       <workItem from="1589936203265" duration="3461000" />
+      <workItem from="1589940378951" duration="416000" />
     </task>
     <servers />
   </component>
@@ -110,26 +111,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="559" y="97" key="#home.html/0.0.1536.834@0.0.1536.834" timestamp="1589936073336" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1589938803543">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1589940793338">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589938803543" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589940300840">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589940793338" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589940794483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589940300840" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1589940300839">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589940794483" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1589940794483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589940300839" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1589940300839">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589940794483" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1589940794483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589940300839" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1589940300839">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589940794483" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1589940794483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589940300839" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589940794483" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589940300836">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -162,13 +163,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1589940300836" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589936204771">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589940379581">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1589936204771" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1589940379581" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Blog$Controller.coverage" NAME="Controller Coverage Results" MODIFIED="1589937269913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Blog$Controller__1_.coverage" NAME="Controller (1) Coverage Results" MODIFIED="1589938756648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Downloads/CodeWizard-master/CodeWizard-master" />
+    <SUITE FILE_PATH="coverage/Blog$Controller.coverage" NAME="Controller Coverage Results" MODIFIED="1589940542495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
