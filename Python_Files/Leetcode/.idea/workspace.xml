@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a74c27d9-6507-4aea-81db-5699ca1dd520" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bHHYsWFvy8RJkje4DO9HbIduts" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a74c27d9-6507-4aea-81db-5699ca1dd520" name="Default Changelist" comment="" />
+      <created>1588282149832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588282149832</updated>
+      <workItem from="1588282151167" duration="25000" />
+      <workItem from="1588328220423" duration="5876000" />
+      <workItem from="1588429209583" duration="451000" />
+      <workItem from="1588429680647" duration="5919000" />
+      <workItem from="1588472591278" duration="6168000" />
+      <workItem from="1588479424266" duration="376000" />
+      <workItem from="1588494071556" duration="3488000" />
+      <workItem from="1588537876756" duration="1854000" />
+      <workItem from="1588575787492" duration="1034000" />
+      <workItem from="1588702095579" duration="260000" />
+      <workItem from="1588702497169" duration="935000" />
+      <workItem from="1588760285196" duration="11900000" />
+      <workItem from="1588859876568" duration="1325000" />
+      <workItem from="1588949555631" duration="2450000" />
+      <workItem from="1589049554528" duration="729000" />
+      <workItem from="1589122971952" duration="1258000" />
+      <workItem from="1589638951501" duration="4653000" />
+      <workItem from="1589675759781" duration="2288000" />
+      <workItem from="1589682412182" duration="7875000" />
+      <workItem from="1589769306259" duration="76000" />
+      <workItem from="1589940795802" duration="49000" />
+      <workItem from="1589960919327" duration="1318000" />
+      <workItem from="1590199329071" duration="13000" />
+      <workItem from="1590283510401" duration="1104000" />
+      <workItem from="1590286138661" duration="6158000" />
+      <workItem from="1590310673590" duration="1611000" />
+      <workItem from="1590325696954" duration="38000" />
+      <workItem from="1590819146021" duration="1680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1589769379255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589769379255" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1588343452916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588343452916" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1588343452916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588343452916" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1588343452916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588343452916" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1588343452916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588343452916" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1590819146793">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1590819146793" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1588336561965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
